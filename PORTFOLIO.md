@@ -65,6 +65,11 @@ https://github.com/user-attachments/assets/70dd5852-fb00-4838-8d96-09b8e05c103d.
 
 ## Starstorm 2 Contributions
 
+### Refabricator
+Destroys a random drone and grants a random item scaling with the cost of the drone. (Refabricator sounds by UnknownGlaze)
+
+https://github.com/user-attachments/assets/30b2dc59-a20b-4f64-965e-49a664a0196f.mp4
+
 ### X4 Stimulant
 Reduces secondary cooldown and grants increased healing after using it.
 
@@ -83,13 +88,15 @@ Modified cooldown reduction to increase tick rate rather than reduce actual skil
 https://github.com/user-attachments/assets/6ef20b0b-b6ab-4c9d-a813-acf30b133791.mp4
 
 ### Engineer Skills
-Laser Focus (Primary) and Rapid Displacement (Utility)
+Laser Focus (Primary) and Rapid Displacement (Utility) -
+Laser Focus fires two continual lasers that deal more damage the longer a given target is focused on.
+Rapid Displacement moves the Engineer forward, stunning and knocking back enemies in the way. Activating it in midair or jumping during the ability causes a burst of upward momentum, which can also deal damage.
 
 https://github.com/user-attachments/assets/bfda6e92-5e2d-4103-bc61-8c02b8746c4e.mp4
 
 
 ### Deadly Voltage
-Primary for Starstorm2's Executioner. Chains lightning between enemies. Misses leave a tracer showing range and excess bounces try to hit the ground when lacking enough enenmies nearby.
+Primary for Starstorm2's Executioner. Chains lightning between enemies. Misses leave a tracer showing range and excess bounces try to hit the ground when lacking enough enemies nearby.
 
 https://github.com/user-attachments/assets/1f132ae0-a5d3-47cf-aa7d-eff88e4f7bb9.mp4
 
