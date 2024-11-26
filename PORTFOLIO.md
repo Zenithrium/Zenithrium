@@ -1,6 +1,6 @@
 # Portfolio - Zenithrium
 
-This profile serves as a portfolio for my current work in RoR2 modding. Most of these contributions are in the [VanillaVoid repo](https://github.com/Zenithrium/vanillaVoid), or the [Starstorm2 repo](https://github.com/TeamMoonstorm/Starstorm2). A good bit of work - particularly early on in my time working on Starstorm2 was bug fixing and tweaks, which are not mentioned here.
+This profile serves as a portfolio for my current work in RoR2 modding. Most of these contributions are in the [VanillaVoid repo](https://github.com/Zenithrium/vanillaVoid), or the [Starstorm2 repo](https://github.com/TeamMoonstorm/Starstorm2). A good bit of work - particularly early on in my time working on Starstorm2 was bug fixing and tweaks, which are generally not mentioned here.
 
 # Released Mods and Contributions
 
@@ -64,6 +64,7 @@ https://github.com/user-attachments/assets/70dd5852-fb00-4838-8d96-09b8e05c103d.
 
 
 ## Starstorm 2 Contributions
+A DLC-sized mod that aims to expand upon nearly all aspects of the game.
 
 ### Refabricator
 Destroys a random drone and grants a random item scaling with the cost of the drone. (Refabricator sounds by UnknownGlaze)
